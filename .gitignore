@@ -1,3 +1,5 @@
+bazel-*
+MODULE.bazel.lock
 Makefile
 Makefile.in
 .deps
